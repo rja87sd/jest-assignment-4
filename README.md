@@ -5,11 +5,11 @@
 ### Installation
 1. Clone the repository to your local machine witht he following command:
 
-    git clone https://github.com/your-username/jest-api-mock-testing.git
+    git clone https://github.com/your-username/jest-assignment-4.git
 
 2. Navigate to the project with the following command:
 
-    cd jest-api-mock-testing
+    cd jest-assignment-4
 
 3. Install the dependencies with the following command:
 
